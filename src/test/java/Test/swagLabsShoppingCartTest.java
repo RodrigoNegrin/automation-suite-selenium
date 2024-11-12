@@ -1,2 +1,4 @@
-package Test;public class swagLabsShoppingCartTest {
+package Test;
+
+public class swagLabsShoppingCartTest {
 }
